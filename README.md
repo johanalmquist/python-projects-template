@@ -19,9 +19,15 @@ flake8==4.0.1
 ```console
 git clone https://github.com/johanalmquist/python-projects-template.git
 ```
+
+- Create a virtual environment (for wls2)
+```console
+python3 -m venv .venv
+```
+
 - Activate virtual environment
 ```console
-source venv/bin/activate
+source .venv/bin/activate
 ```
 - Install pip packages
 ```console
