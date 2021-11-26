@@ -17,7 +17,7 @@ flake8==4.0.1
 ## How to use
 - Clone to a new folder
 ```console
-git clone {href}
+git clone https://github.com/johanalmquist/python-projects-template.git
 ```
 - Activate virtual environment
 ```console
