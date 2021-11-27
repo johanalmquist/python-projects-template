@@ -15,12 +15,21 @@ flake8==4.0.1
 - A python virtual environment
 
 ## How to use
-- Clone to a new folder
+- Create a new folder (linux)
+```console
+mkdir myfolder
+```
+- Start a local git repository
+- Create a new folder (linux)
+```console
+git init
+```
+- Clone into your new folder
 ```console
 git clone https://github.com/johanalmquist/python-projects-template.git
 ```
 
-- Create a virtual environment (for wls2)
+- Create a virtual environment (for linux)
 ```console
 python3 -m venv .venv
 ```
